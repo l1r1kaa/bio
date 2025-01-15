@@ -1,0 +1,129 @@
+ .u-section-1 {
+  min-height: 911px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: MonolisaFont;
+  margin: 54px auto 0 calc(((100% - 1920px) / 2));
+}
+
+.u-section-1 .u-text-2 {
+  font-family: MonolisaFont;
+  font-size: 3rem;
+  margin: -21px 50px 0 calc(((100% - 1920px) / 2)  + 1704px);
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: MonolisaFont;
+  margin: 571px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 940px) / 2) + 834px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 720px) / 2) + 639px);
+  }
+
+  .u-section-1 .u-text-3 {
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 540px) / 2) + 479px);
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1074px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -187px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-size: 3.75rem;
+    line-height: 0.58;
+    margin-top: 464px;
+    margin-right: 37px;
+    margin-left: calc(((100% - 340px) / 2)  + 218px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-btn-3 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-btn-4 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-family: MonolisaFont;
+    width: 278px;
+    margin-top: 429px;
+    margin-bottom: 14px;
+  }
+} .u-section-1 {
+  min-height: 963px;
+}@font-face {
+  font-family: 'MonolisaFont';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/MonolisaFont.ttf);
+}
